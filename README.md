@@ -8,8 +8,8 @@ I'm Sumit Nepal, a student of Herald College Kathmandu. Welcome to my GitHub pro
 
 ### GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumit-nepal&show_icons=true&theme=dark)
+![Your Name's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sumit-nepal&show_icons=true&theme=dark)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-nepal&layout=compact&theme=dark)](https://github.com/Sumit-nepal/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumit-nepal&layout=compact&theme=dark)](https://github.com/Sumit-nepal/github-readme-stats)
