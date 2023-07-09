@@ -5,7 +5,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&username=Sumit-nepal" height="180" width="400" alt="languages graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-nepal&theme=dark&hide_border=true" height="180" width="400" alt="languages graph"  />
 </div>
 
 </br>
